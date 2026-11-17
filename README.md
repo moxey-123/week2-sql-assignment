@@ -12,7 +12,6 @@ This assignment demonstrates basic SQL skills using the sales database.
 - Retrieving data from different tables
 
 ## Assignment Questions
-
 1. Retrieve Payment Information
 2. Find Orders in Process
 3. Find Sales Representatives
